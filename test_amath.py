@@ -1,5 +1,3 @@
-%%file test_amath.py
-
 from pytest import raises
 from amath import myaverage, mymedian
 
